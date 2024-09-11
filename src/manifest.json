@@ -2,7 +2,6 @@
   "manifest_version": 2,
   "browser_specific_settings": {
     "gecko": {
-      "id": "{3c078156-979c-498b-8990-85f7987dd929}",
       "strict_min_version": "115.0"
     }
   },
@@ -11,7 +10,7 @@
   "version": "5.2.0",
   "default_locale": "en",
   "description": "__MSG_ExtDesc__",
-  "homepage_url": "https://github.com/mbnuqw/sidebery",
+  "homepage_url": "https://github.com/Dat-Doot/Sidebery-Starlight/tree/v5",
   "icons": {
     "48": "./assets/logo.svg",
     "96": "./assets/logo.svg"
@@ -425,18 +424,18 @@
     }
   },
   "browser_action": {
-    "default_icon": "./assets/logo-native.svg",
+    "default_icon": "./assets/logo.svg",
     "default_title": "__MSG_ActionTitle__",
     "default_area": "navbar",
     "theme_icons": [
       {
-        "light": "./assets/logo-native-light.svg",
-        "dark": "./assets/logo-native-dark.svg",
+        "light": "./assets/logo.svg",
+        "dark": "./assets/logo.svg",
         "size": 16
       },
       {
-        "light": "./assets/logo-native-light.svg",
-        "dark": "./assets/logo-native-dark.svg",
+        "light": "./assets/logo.svg",
+        "dark": "./assets/logo.svg",
         "size": 32
       }
     ]
